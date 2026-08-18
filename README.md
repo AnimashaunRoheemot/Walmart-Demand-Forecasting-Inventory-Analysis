@@ -139,7 +139,7 @@ This highlights the presence of meaningful differences between forecasted and ac
 # 📊 Dashboard & Visual Analysis
 The Excel dashboard was designed to provide a concise view of forecasting performance and demand behavior.
 ## Dashboard Preview
-![Demand Forecasting Dashboard](visuals/dashboard.png)
+![Demand Forecasting Dashboard](https://github.com/AnimashaunRoheemot/Walmart-Demand-Forecasting-Inventory-Analysis/blob/main/Demand%20Forecasting%20Dashboard.png)
 ---
 ## 1. Forecast Method Performance
 The analysis compared the performance of different forecasting methods.
