@@ -99,9 +99,9 @@ Before conducting the analysis, the dataset was reviewed and cleaned to improve 
 The cleaned dataset was then used for the analysis and dashboard development.
 ### 📁 Data Files
 **Raw Dataset**
-`https://github.com/AnimashaunRoheemot/Walmart-Demand-Forecasting-Inventory-Analysis/blob/main/Dirty%20walmart%20demand%20%20forecasting%20and%20inventory%20data.xlsx`
+`Dirty walmart demand  forecasting and inventory data`
 **Cleaned Dataset**
-`data/cleaned_data/`
+`cleaned Walmart Demand Forecasting Inventory Imbalance Animashaun/`
 > The raw dataset is preserved separately from the cleaned version to maintain transparency and reproducibility.
 ---
 # 🧮 Key Calculated Metrics
